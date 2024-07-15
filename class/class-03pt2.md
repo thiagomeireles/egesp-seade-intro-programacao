@@ -1,4 +1,4 @@
-#  Aula 3 (parte 2) - ggplot2: Gramática de gráficos
+#  Aula 4 - ggplot2: Gramática de gráficos
 
 ## Objetivos Gerais
 
